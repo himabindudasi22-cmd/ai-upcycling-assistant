@@ -1,3 +1,5 @@
 streamlit
 ultralytics
 openai
+opencv-python-headless
+pillow
